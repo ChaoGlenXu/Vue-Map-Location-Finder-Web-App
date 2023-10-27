@@ -6,7 +6,7 @@
 
 ## Description
 
-VueMapLocationWebApp is a web application developed by myself (Chao Xu) to demonstrate my skills in Javascript, Vue.js, Website development, Google Maps integration, and UI design.
+VueMapLocationFinderWebApp is a web application developed by myself (Chao Xu) to demonstrate my skills in Javascript, Vue.js, Website development, Google Maps integration, and UI design.
 
 
 ## Features
